@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/TIGUM2/static/css/main.5fb4359d.css",
-    "main.js": "/TIGUM2/static/js/main.9986dc94.js",
+    "main.css": "/TIGUM2/static/css/main.32be3fb7.css",
+    "main.js": "/TIGUM2/static/js/main.6236b9ce.js",
     "static/media/video1.mp4": "/TIGUM2/static/media/video1.41cab17992ea17b006f5.mp4",
     "static/media/bg6.png": "/TIGUM2/static/media/bg6.e0f257c55be6d2914e0e.png",
+    "static/media/cr1.jpg": "/TIGUM2/static/media/cr1.8d1e05651d9be1ed9ec4.jpg",
     "static/media/marcela.jpg": "/TIGUM2/static/media/marcela.133c9e9ddc82af5d6956.jpg",
+    "static/media/cr2.jpeg": "/TIGUM2/static/media/cr2.ac3e5c20196435c47753.jpeg",
     "static/media/ftbg.jpg": "/TIGUM2/static/media/ftbg.e41b2dc3ef181682941d.jpg",
+    "static/media/cr4.jpg": "/TIGUM2/static/media/cr4.a80540fa6261d5d5e9fb.jpg",
     "static/media/logo40.png": "/TIGUM2/static/media/logo40.453a8a079d59ccfa3b0b.png",
+    "static/media/cr6.jpg": "/TIGUM2/static/media/cr6.0e01e635aed661517e42.jpg",
     "static/media/astrid.jpg": "/TIGUM2/static/media/astrid.5418e73a6cb3481df2b8.jpg",
+    "static/media/cr5.jpg": "/TIGUM2/static/media/cr5.9bc8af574540c8e9b75d.jpg",
     "static/media/tm2.jpg": "/TIGUM2/static/media/tm2.8c0fc655eaf6847d8990.jpg",
     "static/media/tm1.jpg": "/TIGUM2/static/media/tm1.b9aa42f1204ecef93bfb.jpg",
+    "static/media/cr3.jpg": "/TIGUM2/static/media/cr3.f1c749a7843f830d696d.jpg",
     "static/media/bg7.jpg": "/TIGUM2/static/media/bg7.28158a98a45919f8d12a.jpg",
     "static/media/bg1.jpg": "/TIGUM2/static/media/bg1.e1b64f7407bf73e88855.jpg",
+    "static/media/cr7.jpg": "/TIGUM2/static/media/cr7.ebeb74d490b1bd226e66.jpg",
     "static/media/bg5.png": "/TIGUM2/static/media/bg5.f524b85c320f291365c8.png",
+    "static/media/cr8.jpg": "/TIGUM2/static/media/cr8.620ae0818120f50b199c.jpg",
     "static/media/logosicontec.png": "/TIGUM2/static/media/logosicontec.4648ccb8ad6ffdeb9e3a.png",
     "static/media/hearthy.svg": "/TIGUM2/static/media/hearthy.64ae981368fdaf92c7fd767cb885b8ae.svg",
     "static/media/medicine.svg": "/TIGUM2/static/media/medicine.0bc58d0e99b0ab845981eb41d448dde3.svg",
@@ -30,11 +38,11 @@
     "static/media/maleavy.svg": "/TIGUM2/static/media/maleavy.f1da565c1c8f59c0147b99653646d712.svg",
     "static/media/iot.svg": "/TIGUM2/static/media/iot.d09fc9a2bd28e3c8152bf07b670c5cb3.svg",
     "index.html": "/TIGUM2/index.html",
-    "main.5fb4359d.css.map": "/TIGUM2/static/css/main.5fb4359d.css.map",
-    "main.9986dc94.js.map": "/TIGUM2/static/js/main.9986dc94.js.map"
+    "main.32be3fb7.css.map": "/TIGUM2/static/css/main.32be3fb7.css.map",
+    "main.6236b9ce.js.map": "/TIGUM2/static/js/main.6236b9ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fb4359d.css",
-    "static/js/main.9986dc94.js"
+    "static/css/main.32be3fb7.css",
+    "static/js/main.6236b9ce.js"
   ]
 }
